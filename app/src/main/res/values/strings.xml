@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HireNepal</string>
+    <string name="tagline">Find · Hire · Trust</string>
+    <string name="splash_promise">Trusted Local Professionals\nfor Your Every Need</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="sign_in_title">Sign in to continue</string>
+    <string name="sign_in_subtitle">Choose how you want to use HiréNepal today.</string>
+    <string name="hire_a_pro">Hire a pro</string>
+    <string name="find_work">Find work</string>
+    <string name="email_label">Email address</string>
+    <string name="password_label">Password</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="create_account_button">Create your account</string>
+    <string name="home_care_title">Home care,\nhandled.</string>
+    <string name="home_care_subtitle">Book skilled professionals for every task, big or small.</string>
+    <string name="popular_services">Popular services</string>
+    <string name="top_professionals">Top professionals</string>
+    <string name="book_service_title">Book your service</string>
+    <string name="booking_confirmed_title">You’re all set.</string>
+</resources>
